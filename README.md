@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📝 I regularly write articles on [https://okageek.blogspot.com](https://okageek.blogspot.com)
-
 - 💬 Ask me about **Pandas, Numpy, Matplotlib, Flask, Git, HTML, CSS**
 
 - 📫 How to reach me **rahulnagilla01@gmail.com**
