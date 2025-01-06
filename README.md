@@ -1,26 +1,33 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Rahul Nagilla
 
-###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif?cid=6c09b952ltz70dozc7ctnmjwwllslg7pfh3tbyxcqfpak3ns&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/rahuladityan01//)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rahulnagilla01@gmail.com)
+
+[![Github](https://img.shields.io/github/followers/rahulnagilla01?label=Follow&style=social)](https://github.com/rahulnagilla01)
+
+- 💻 Computer Science Major at Bennett University, Greater Noida
+- 🤖 I’m currently learning Machine Learning, NLP
+-  🍀 Into open source 
+- 📫 How to reach me: @rahulnagilla01@gmail.com
+
+
+### 🖥 Skills
+
+- Designing
+- Logic building
+- SQL 
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=for-the-badge&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulnagilla01&show_icons=true&locale=en&layout=compact" alt="rahulnagilla01" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=rahulnagilla01&" alt="rahulnagilla01" />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
