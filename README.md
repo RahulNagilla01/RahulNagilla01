@@ -16,8 +16,9 @@
 
 ### 🖥 Skills
 
-- Designing
-- Logic building
+- Data Analysis
+- Data Science
+- Machine Learning
 - SQL 
 ### ⚙️ Tech Stack
 
